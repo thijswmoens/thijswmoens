@@ -6,5 +6,5 @@
 
 [![ThijsMoens](https://raw.githubusercontent.com/thijswmoens/thijswmoens/master/.github/images/thijsmoens-github-header.png)][s]
 
-[s]: https://github.com/thijswmoens
+[s]: https://github.com/thijswmoens/sponsor
 
